@@ -1,0 +1,602 @@
+[
+ {
+   "Year": 1984,
+   "Car Make": "Chevrolet",
+   "Car Color": "Purple",
+   "Mileage": 73973
+ },
+ {
+   "Year": 2005,
+   "Car Make": "Volkswagen",
+   "Car Color": "Goldenrod",
+   "Mileage": 23786
+ },
+ {
+   "Year": 2003,
+   "Car Make": "Mazda",
+   "Car Color": "Khaki",
+   "Mileage": 44418
+ },
+ {
+   "Year": 2007,
+   "Car Make": "Ford",
+   "Car Color": "Puce",
+   "Mileage": 32900
+ },
+ {
+   "Year": 2008,
+   "Car Make": "Porsche",
+   "Car Color": "Orange",
+   "Mileage": 89808
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Chevrolet",
+   "Car Color": "Indigo",
+   "Mileage": 42287
+ },
+ {
+   "Year": 1995,
+   "Car Make": "Pontiac",
+   "Car Color": "Indigo",
+   "Mileage": 87080
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Chevrolet",
+   "Car Color": "Orange",
+   "Mileage": 111
+ },
+ {
+   "Year": 2003,
+   "Car Make": "Volvo",
+   "Car Color": "Orange",
+   "Mileage": 44796
+ },
+ {
+   "Year": 1996,
+   "Car Make": "Cadillac",
+   "Car Color": "Yellow",
+   "Mileage": 36222
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Mazda",
+   "Car Color": "Orange",
+   "Mileage": 87741
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Volvo",
+   "Car Color": "Fuscia",
+   "Mileage": 48123
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Cadillac",
+   "Car Color": "Indigo",
+   "Mileage": 45116
+ },
+ {
+   "Year": 2008,
+   "Car Make": "Land Rover",
+   "Car Color": "Crimson",
+   "Mileage": 72108
+ },
+ {
+   "Year": 2005,
+   "Car Make": "Toyota",
+   "Car Color": "Purple",
+   "Mileage": 29150
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Pontiac",
+   "Car Color": "Green",
+   "Mileage": 93301
+ },
+ {
+   "Year": 2009,
+   "Car Make": "Audi",
+   "Car Color": "Goldenrod",
+   "Mileage": 90743
+ },
+ {
+   "Year": 2012,
+   "Car Make": "Ford",
+   "Car Color": "Green",
+   "Mileage": 26206
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Volkswagen",
+   "Car Color": "Violet",
+   "Mileage": 48348
+ },
+ {
+   "Year": 1998,
+   "Car Make": "Ford",
+   "Car Color": "Puce",
+   "Mileage": 54230
+ },
+ {
+   "Year": 1994,
+   "Car Make": "Buick",
+   "Car Color": "Mauv",
+   "Mileage": 75971
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Ford",
+   "Car Color": "Mauv",
+   "Mileage": 20961
+ },
+ {
+   "Year": 1992,
+   "Car Make": "Chevrolet",
+   "Car Color": "Yellow",
+   "Mileage": 21074
+ },
+ {
+   "Year": 2012,
+   "Car Make": "Land Rover",
+   "Car Color": "Turquoise",
+   "Mileage": 11669
+ },
+ {
+   "Year": 2000,
+   "Car Make": "Mitsubishi",
+   "Car Color": "Aquamarine",
+   "Mileage": 17652
+ },
+ {
+   "Year": 2000,
+   "Car Make": "Mazda",
+   "Car Color": "Pink",
+   "Mileage": 91097
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Honda",
+   "Car Color": "Crimson",
+   "Mileage": 58071
+ },
+ {
+   "Year": 1998,
+   "Car Make": "Lexus",
+   "Car Color": "Turquoise",
+   "Mileage": 63567
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Hyundai",
+   "Car Color": "Green",
+   "Mileage": 29738
+ },
+ {
+   "Year": 1992,
+   "Car Make": "Mazda",
+   "Car Color": "Purple",
+   "Mileage": 36255
+ },
+ {
+   "Year": 2012,
+   "Car Make": "BMW",
+   "Car Color": "Indigo",
+   "Mileage": 93909
+ },
+ {
+   "Year": 1992,
+   "Car Make": "Lincoln",
+   "Car Color": "Blue",
+   "Mileage": 4650
+ },
+ {
+   "Year": 1989,
+   "Car Make": "Saab",
+   "Car Color": "Violet",
+   "Mileage": 26454
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Nissan",
+   "Car Color": "Turquoise",
+   "Mileage": 77889
+ },
+ {
+   "Year": 2009,
+   "Car Make": "Dodge",
+   "Car Color": "Khaki",
+   "Mileage": 8153
+ },
+ {
+   "Year": 2013,
+   "Car Make": "Kia",
+   "Car Color": "Red",
+   "Mileage": 98926
+ },
+ {
+   "Year": 1992,
+   "Car Make": "Toyota",
+   "Car Color": "Teal",
+   "Mileage": 90768
+ },
+ {
+   "Year": 1995,
+   "Car Make": "Volkswagen",
+   "Car Color": "Maroon",
+   "Mileage": 88980
+ },
+ {
+   "Year": 1999,
+   "Car Make": "Lexus",
+   "Car Color": "Puce",
+   "Mileage": 28347
+ },
+ {
+   "Year": 1991,
+   "Car Make": "Ford",
+   "Car Color": "Purple",
+   "Mileage": 69755
+ },
+ {
+   "Year": 1988,
+   "Car Make": "Ford",
+   "Car Color": "Crimson",
+   "Mileage": 37372
+ },
+ {
+   "Year": 1998,
+   "Car Make": "Chevrolet",
+   "Car Color": "Khaki",
+   "Mileage": 99997
+ },
+ {
+   "Year": 1986,
+   "Car Make": "Ford",
+   "Car Color": "Green",
+   "Mileage": 31070
+ },
+ {
+   "Year": 1984,
+   "Car Make": "Mercedes-Benz",
+   "Car Color": "Purple",
+   "Mileage": 75859
+ },
+ {
+   "Year": 1996,
+   "Car Make": "Mitsubishi",
+   "Car Color": "Red",
+   "Mileage": 28204
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Lincoln",
+   "Car Color": "Crimson",
+   "Mileage": 22001
+ },
+ {
+   "Year": 2002,
+   "Car Make": "Chevrolet",
+   "Car Color": "Blue",
+   "Mileage": 67947
+ },
+ {
+   "Year": 2010,
+   "Car Make": "Mitsubishi",
+   "Car Color": "Fuscia",
+   "Mileage": 27626
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Ford",
+   "Car Color": "Blue",
+   "Mileage": 29367
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Kia",
+   "Car Color": "Khaki",
+   "Mileage": 90139
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Cadillac",
+   "Car Color": "Fuscia",
+   "Mileage": 16812
+ },
+ {
+   "Year": 2002,
+   "Car Make": "Kia",
+   "Car Color": "Goldenrod",
+   "Mileage": 94382
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Infiniti",
+   "Car Color": "Turquoise",
+   "Mileage": 36043
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Hummer",
+   "Car Color": "Turquoise",
+   "Mileage": 88687
+ },
+ {
+   "Year": 1995,
+   "Car Make": "Mazda",
+   "Car Color": "Orange",
+   "Mileage": 53425
+ },
+ {
+   "Year": 1963,
+   "Car Make": "Chevrolet",
+   "Car Color": "Goldenrod",
+   "Mileage": 14626
+ },
+ {
+   "Year": 2007,
+   "Car Make": "Nissan",
+   "Car Color": "Mauv",
+   "Mileage": 53557
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Infiniti",
+   "Car Color": "Pink",
+   "Mileage": 92786
+ },
+ {
+   "Year": 1986,
+   "Car Make": "Ford",
+   "Car Color": "Aquamarine",
+   "Mileage": 67840
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Ford",
+   "Car Color": "Pink",
+   "Mileage": 3335
+ },
+ {
+   "Year": 2012,
+   "Car Make": "Chevrolet",
+   "Car Color": "Mauv",
+   "Mileage": 85945
+ },
+ {
+   "Year": 2002,
+   "Car Make": "Isuzu",
+   "Car Color": "Yellow",
+   "Mileage": 80628
+ },
+ {
+   "Year": 1998,
+   "Car Make": "Chevrolet",
+   "Car Color": "Orange",
+   "Mileage": 21457
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Dodge",
+   "Car Color": "Violet",
+   "Mileage": 31954
+ },
+ {
+   "Year": 1986,
+   "Car Make": "Mercury",
+   "Car Color": "Goldenrod",
+   "Mileage": 89
+ },
+ {
+   "Year": 1995,
+   "Car Make": "Pontiac",
+   "Car Color": "Yellow",
+   "Mileage": 82921
+ },
+ {
+   "Year": 1995,
+   "Car Make": "Volkswagen",
+   "Car Color": "Puce",
+   "Mileage": 21891
+ },
+ {
+   "Year": 1997,
+   "Car Make": "BMW",
+   "Car Color": "Pink",
+   "Mileage": 79679
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Chevrolet",
+   "Car Color": "Puce",
+   "Mileage": 57247
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Chevrolet",
+   "Car Color": "Yellow",
+   "Mileage": 52384
+ },
+ {
+   "Year": 2006,
+   "Car Make": "Chevrolet",
+   "Car Color": "Orange",
+   "Mileage": 53310
+ },
+ {
+   "Year": 2010,
+   "Car Make": "Mercedes-Benz",
+   "Car Color": "Green",
+   "Mileage": 13530
+ },
+ {
+   "Year": 1996,
+   "Car Make": "Kia",
+   "Car Color": "Fuscia",
+   "Mileage": 65157
+ },
+ {
+   "Year": 2012,
+   "Car Make": "GMC",
+   "Car Color": "Orange",
+   "Mileage": 61674
+ },
+ {
+   "Year": 2008,
+   "Car Make": "Mazda",
+   "Car Color": "Khaki",
+   "Mileage": 65305
+ },
+ {
+   "Year": 1992,
+   "Car Make": "Daihatsu",
+   "Car Color": "Indigo",
+   "Mileage": 96170
+ },
+ {
+   "Year": 1999,
+   "Car Make": "Isuzu",
+   "Car Color": "Puce",
+   "Mileage": 35724
+ },
+ {
+   "Year": 2012,
+   "Car Make": "GMC",
+   "Car Color": "Crimson",
+   "Mileage": 81791
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Ford",
+   "Car Color": "Red",
+   "Mileage": 66328
+ },
+ {
+   "Year": 1996,
+   "Car Make": "Kia",
+   "Car Color": "Orange",
+   "Mileage": 75546
+ },
+ {
+   "Year": 2008,
+   "Car Make": "Bentley",
+   "Car Color": "Aquamarine",
+   "Mileage": 76692
+ },
+ {
+   "Year": 1987,
+   "Car Make": "Mazda",
+   "Car Color": "Violet",
+   "Mileage": 47487
+ },
+ {
+   "Year": 2012,
+   "Car Make": "Toyota",
+   "Car Color": "Blue",
+   "Mileage": 70775
+ },
+ {
+   "Year": 2010,
+   "Car Make": "Subaru",
+   "Car Color": "Mauv",
+   "Mileage": 71239
+ },
+ {
+   "Year": 1999,
+   "Car Make": "Mitsubishi",
+   "Car Color": "Blue",
+   "Mileage": 19135
+ },
+ {
+   "Year": 2004,
+   "Car Make": "Saturn",
+   "Car Color": "Mauv",
+   "Mileage": 43096
+ },
+ {
+   "Year": 1964,
+   "Car Make": "Ford",
+   "Car Color": "Pink",
+   "Mileage": 51294
+ },
+ {
+   "Year": 2008,
+   "Car Make": "Chrysler",
+   "Car Color": "Goldenrod",
+   "Mileage": 83750
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Lincoln",
+   "Car Color": "Indigo",
+   "Mileage": 11645
+ },
+ {
+   "Year": 2005,
+   "Car Make": "Maybach",
+   "Car Color": "Purple",
+   "Mileage": 57796
+ },
+ {
+   "Year": 2007,
+   "Car Make": "Jeep",
+   "Car Color": "Violet",
+   "Mileage": 26569
+ },
+ {
+   "Year": 2002,
+   "Car Make": "Toyota",
+   "Car Color": "Red",
+   "Mileage": 88454
+ },
+ {
+   "Year": 2007,
+   "Car Make": "Mercury",
+   "Car Color": "Crimson",
+   "Mileage": 48812
+ },
+ {
+   "Year": 2007,
+   "Car Make": "Infiniti",
+   "Car Color": "Mauv",
+   "Mileage": 57419
+ },
+ {
+   "Year": 1999,
+   "Car Make": "Audi",
+   "Car Color": "Yellow",
+   "Mileage": 60117
+ },
+ {
+   "Year": 2011,
+   "Car Make": "Hyundai",
+   "Car Color": "Mauv",
+   "Mileage": 66723
+ },
+ {
+   "Year": 2001,
+   "Car Make": "Buick",
+   "Car Color": "Maroon",
+   "Mileage": 55317
+ },
+ {
+   "Year": 1997,
+   "Car Make": "Toyota",
+   "Car Color": "Fuscia",
+   "Mileage": 41786
+ },
+ {
+   "Year": 2000,
+   "Car Make": "Isuzu",
+   "Car Color": "Puce",
+   "Mileage": 65125
+ },
+ {
+   "Year": 1996,
+   "Car Make": "Suzuki",
+   "Car Color": "Teal",
+   "Mileage": 45116
+ }
+]
